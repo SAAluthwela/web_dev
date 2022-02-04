@@ -1,17 +1,14 @@
 # web_dev
 
+# About
 
-# About 
- This is a complete commercial web site 
- This project done by me only for learning purpose. 
- 
- 
+This is a complete commercial web site.
+The project done by me only for learning purpose.
+
 # Used technologies
- HTML5 & CSS3
- 
- 
+
+HTML5 & CSS3
+
 # Reference
+
 https://codewithmosh.com/p/the-ultimate-html-css-part3
-
-
-
